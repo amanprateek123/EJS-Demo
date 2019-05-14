@@ -1,0 +1,23 @@
+{
+  "name": "ejsd",
+  "version": "1.0.0",
+  "description": "ejs and template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanprateek123/EJS-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanprateek123/EJS-Demo/issues"
+  },
+  "homepage": "https://github.com/amanprateek123/EJS-Demo#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
